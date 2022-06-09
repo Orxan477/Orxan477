@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Orkhan Ganbarov</h1>
-<summary><h2>📈 My Github Stats</h2></summary>
+##<summary><h2>📈 My Github Stats</h2></summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orxan477&show_icons=true&theme=radical)
 
