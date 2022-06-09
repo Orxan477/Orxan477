@@ -4,9 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orxan477&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orxan477&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-##<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" />  To connect with me</h2></summary>
+---
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" />  To connect with me</h2></summary>
 
 <p align = "center">
  
