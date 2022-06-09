@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I’m Orkhan Ganbarov</h1>
 <summary><h2><img src="https://camo.githubusercontent.com/3f800cc55dd8853ca9d1eb35b123361063494db6df19b63fb3c73d47b94bef20/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313437313034353835322f3834312f6865726f2e6769663f31343731303435383532" align="center"
                 width="28" /> My Github Stats</h2></summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orxan477&show_icons=true&theme=radical)
+                
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orxan477&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
